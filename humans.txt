@@ -1,0 +1,16 @@
+/* TEAM */
+	Code & Design: Martin Brüïker
+	Contact: bruikers [at] tutanota.com
+	Twitter: @datamatin
+	From: Mureck, Styria, Austria
+
+/* THANKS */
+	Inspiration: Sadie Brüïker
+	Twitter: @gonna_change_so
+	From: Richmond, VT, USA
+
+/* SITE */
+	Last update: 2020/09/14
+	Language: Russian / English
+	Doctype: HTML5
+	IDE: VSCode
